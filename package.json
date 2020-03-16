@@ -1,0 +1,14 @@
+{
+  "name": "task-tracking-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "ping -n 2 127.0.0.1",
+    "task2": "ping -n 12 127.0.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
